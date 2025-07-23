@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning c++
+- 🌱 I’m a Front-End Developer!
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2025 Goals: 💀
 
@@ -20,5 +20,5 @@
 <br />
 <br />
 
-![zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairNazeer515&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzairNazeer515&layout=compact&theme=merko)
+
 
