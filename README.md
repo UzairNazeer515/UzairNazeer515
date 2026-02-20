@@ -4,7 +4,7 @@
 
 - 🌱 I’m a Front-End Developer!
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2025 Goals: 💀
+- 🥅 2026 Goals: 💀
 
 ### Connect with me:
  <i class="fa-brands fa-twitter"></i>
